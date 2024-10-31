@@ -1,5 +1,7 @@
-## Hi there 👋
+## Ohm Chiluka
 
+B.E IT (SPPU)
+Pune,Maharashtra
 <!--
 **ohmchiluka/ohmchiluka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
